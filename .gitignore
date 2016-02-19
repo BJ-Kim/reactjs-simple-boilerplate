@@ -1,0 +1,9 @@
+ibuild
+lib
+!tools/lib
+node_modules
+npm-debug.log
+*.un~
+dist
+tags
+.DS_Store
